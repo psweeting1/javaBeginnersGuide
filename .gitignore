@@ -119,6 +119,9 @@ ipch/
 # TFS 2012 Local Workspace
 $tf/
 
+#Others
+*.DS_Store
+
 # Guidance Automation Toolkit
 *.gpState
 
