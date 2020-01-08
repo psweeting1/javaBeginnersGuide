@@ -75,5 +75,7 @@ public class Cats {
         this.talent = talent;
     }
 
-
+    public String toString () {
+       return "My name is " + getFirstName() + " " + getLastName() + " and I have " + getLegs() + " legs and " + getEyes() + " Eyes, my Power is " + getSuperPower() + " and my talent is " + getTalent();
+    };
 }
