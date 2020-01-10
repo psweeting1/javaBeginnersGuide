@@ -13,6 +13,9 @@ public class Main {
         int i;
         int size = myCat.size();
 
+        /*
+        * Pats way below
+        */
 //        for (i = 0; i < size; i++) {
 //            System.out.println(myCat.get(i).toString());
 //        }
